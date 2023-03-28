@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreehareish&label=Profile%20views&color=0e75b6&style=flat" alt="shreehareish" /> </p>
 
-- 🔭 I’m currently working on **Chennai cabs**
+- 🔭 I’m currently working on **Live projects**
 
 - 🌱 I’m currently learning **flutter , Firebase**
 
